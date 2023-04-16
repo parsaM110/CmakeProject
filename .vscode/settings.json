@@ -40,5 +40,6 @@
         "xlocale": "cpp",
         "xlocnum": "cpp",
         "xtr1common": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

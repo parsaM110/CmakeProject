@@ -5,7 +5,7 @@ void print_hello_world()
 {
 
     std::cout << "\033[31m"
-              << " hello wold From now on the stream is red! \n"
+              << "hello wold From now on the stream is red! \n"
               << "\033[0m";
 
 }
